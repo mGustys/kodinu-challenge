@@ -1,0 +1,1 @@
+Read Me file for Kodinu.lt challenge
